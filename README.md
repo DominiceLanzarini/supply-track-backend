@@ -70,6 +70,10 @@ GET /products - List all products (Accessible only to BRANCH).
 
 The middleware built was used as a token constructor and for its verification in all routes.
 
+## Database
+
+![Database diagram](diagram_db.png)
+
 ## Technologies Used
 
 - Node.js 
